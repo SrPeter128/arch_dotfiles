@@ -1,5 +1,8 @@
 # This is my collection of configs and packages for my standart arch setup 
 
+dotfiles are saved and managed using [chezmoi](https://www.chezmoi.io). The current setup has a Plasma 6 and a hyperland desktop manager. This repo contains config files working with both display managers but also configs for hperland are included here. 
+
+
 ## CLI tools
 
 1. eza 
@@ -71,6 +74,17 @@ Flatpack:
 1. VSCode
 2. Conda 
 3. Podmann
+
+## Hpyrland 
+
+The current setup also contains a hyprland window manager. The following tools are installed for hyperland 
+
+1. Waybar 
+2. Hyprlock
+3. swww for wallpaper 
+4. blueman
+
+All dotfiles for these tools can also be found here. 
 
 ## other
 
