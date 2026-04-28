@@ -9,6 +9,7 @@ dotfiles are saved and managed using [chezmoi](https://www.chezmoi.io). The curr
 2. fzf
 3. bat 
 4. fd 
+5. superfile
 
 ## Terminal 
 
